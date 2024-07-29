@@ -222,3 +222,4 @@ class TestMagazine:
         
     #     assert Magazine.top_publisher() == magazine_1
     #     assert isinstance(Magazine.top_publisher(), Magazine)
+    
